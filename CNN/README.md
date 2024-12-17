@@ -61,7 +61,7 @@ Evaluation Metric: **Mean Absolute Error (MAE)**
 To run this project, ensure you have the following libraries installed:
 
 ```bash
-pip install pandas numpy matplotlib tensorflow scikit-learn
+pip install pandas numpy matplotlib tensorflow scikit-learn```
 
 ---
 
@@ -70,12 +70,12 @@ pip install pandas numpy matplotlib tensorflow scikit-learn
 ### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Zero-Asif/IML.git && cd IML/CNN && ls CNNmodel.py
+   git clone https://github.com/Zero-Asif/IML.git && cd IML/CNN && ls CNNmodel.py```
 
 ### 2. Run the Python script:
 
    ```bash
-   python CNNmodel.py
+   python CNNmodel.py```
 
 ### 3. Outputs
 
