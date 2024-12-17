@@ -32,7 +32,7 @@ This project implements a machine learning pipeline for time series prediction:
 
 The dataset used is **Electric Production Data**, available in a CSV format.
 
-- **Dataset Link**: [Electric Production CSV](https://raw.githubusercontent.com/Zero-Asif/data/refs/heads/main/electric-production.csv)
+- **Dataset Link**: [Electric Production CSV](https://github.com/Zero-Asif/data/blob/main/electric-production.csv)
 - **Columns**:
    - The first column contains time-based index data.
    - The subsequent columns represent production values over time.
